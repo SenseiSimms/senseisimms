@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexx Simmmons</h1>
+<h1 align="center">Hi 👋, I'm Alexx Simmons</h1>
 <h3 align="center">A passionate frontend developer from Houston, Texas USA</h3>
 
 - 🌱 I’m currently learning **React**
